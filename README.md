@@ -1,7 +1,7 @@
 # Python-Tasks
 From simple to advanced tasks in the language
 
-I) Begginer Projects:
+<b>I) Begginer Projects:</b>
 
   a) number guesser
   
@@ -11,7 +11,7 @@ I) Begginer Projects:
   
   d) Check Fibbonacci
   
-II) Simple games 
+<b>II) Simple games:</b> 
 
   a) tic-tac-toe
   
