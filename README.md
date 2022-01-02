@@ -6,13 +6,13 @@ From simple to advanced tasks in the language
 
   a) number guesser
   
-  b) dice throwing program
+  b) dice throwing simulator
   
   c) hangman
   
   c) game of rock, paper and scissors
   
-  d) Check Fibbonacci
+  d) check if a number is Fibbonacci
 
 
 <b>II) Simple games:</b> 
